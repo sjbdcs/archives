@@ -1,22 +1,22 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: St John Institutional Repository
+email: communications@sjbdcs.edu
+description: St John Baptist De La Salle Catholic School, Addis Ababa - Institutional Repository for Research and E-content Archives
 baseurl: ""
 url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
-google_analytics_4: G-02KDGRRB2T
-google_tag_manager: GTM-TZ9Z7HZ
+google_analytics: 
+google_analytics_4: 
+google_tag_manager: 
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    California Institute of Technology
+    St John Baptist De La Salle Catholic School<br/>
+    Research and E-content Archives<br/>
+    <a href="https://sjbdcs.org" target="_blank">Home</a><br/>
+    
 
 location: >
   <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
@@ -25,9 +25,8 @@ location: >
   Pasadena, CA 91125, MC104-44
 
 contact: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-
+    <a href="mailto:communications@sjbdcs.org" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact SJBDCS-IR via email</a> <br/>
+    
 # Pages shown in navbar
 nav_pages:
   - name: about
